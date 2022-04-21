@@ -8,19 +8,19 @@ history = {}
 var selectedId = 0;                      //Has the Previously Moved Id 
 coins = [["r","n","b","q","p","k"],["R","N","B","Q","P","K"]]
 coinImg ={
-  'P':"/Pieces/wSoldier.png",
-  'Q':"/Pieces/wQueen.png",
-  'R':"/Pieces/wRook.png",
-  'N':"/Pieces/wHorse.png",
-  'K':"/Pieces/wKing.png",
-  'B':"/Pieces/wBishop.png",
+  'P':"./Pieces/wSoldier.png",
+  'Q':"./Pieces/wQueen.png",
+  'R':"./Pieces/wRook.png",
+  'N':"./Pieces/wHorse.png",
+  'K':"./Pieces/wKing.png",
+  'B':"./Pieces/wBishop.png",
   '.':"",
-  'p':"/Pieces/Soldier.png",
-  'q':"/Pieces/Queen.png",
-  'r':"/Pieces/Rook.png",
-  'n':"/Pieces/Horse.png",
-  'k':"/Pieces/King.png",
-  'b':"/Pieces/Bishop.png",
+  'p':"./Pieces/Soldier.png",
+  'q':"./Pieces/Queen.png",
+  'r':"./Pieces/Rook.png",
+  'n':"./Pieces/Horse.png",
+  'k':"./Pieces/King.png",
+  'b':"./Pieces/Bishop.png",
 }                                       //To shift Images from one place to another 
 
 // To fill Board Colour
